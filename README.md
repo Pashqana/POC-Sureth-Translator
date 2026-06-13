@@ -23,4 +23,5 @@ You can open an issue in the repo
 
 ## How can I help/contribute?
 If you can speak, read, and write Sureth, you can contribute for free by going to pashqana.xyz and creating and submitting a translation pair. Thank you!
+
 <img width="997" height="648" alt="image" src="https://github.com/user-attachments/assets/180b54cc-895d-473d-a72d-9edc81c1e3b0" />
