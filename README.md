@@ -22,4 +22,4 @@ After it is done installing, you may run main.py to open the Translator
 You can open an issue in the repo
 
 ## How can I help/contribute?
-If you can speak, read, and write Sureth, you can contribute for free by going to pashqana.xyz and submitting a translation pair. Thank you!
+If you can speak, read, and write Sureth, you can contribute for free by going to pashqana.xyz and creating and submitting a translation pair. Thank you!
